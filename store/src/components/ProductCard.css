@@ -1,0 +1,23 @@
+.product-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* Adjust the width if needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image scales and crops nicely */
+}
+
+.product-imag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px; /* Adjust the width if needed */
+    height: 100px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image scales and crops nicely */
+}
+
+
+.card-container {
+    margin: 20px auto; /* Adds spacing and centers the card */
+    text-align: center; /* Center-aligns content inside the card */
+}
